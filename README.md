@@ -3,4 +3,10 @@ Belajar Fundamental Aplikasi Android (BFAA) Dicoding Academy | Bangkit Academy 2
 
 #Project Screenshot :
 
-<img src="screenshot/project.gif" align="center" />
+<table>
+    <tr>
+        <td></td>
+        <td><img src="screenshot/project.gif" align="center" alt="4"</td>
+        <td></td>
+    </tr>
+</table>  
