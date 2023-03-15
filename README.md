@@ -3,4 +3,4 @@ Belajar Fundamental Aplikasi Android (BFAA) Dicoding Academy | Bangkit Academy 2
 
 #Project Screenshot :
 
-<img src="project.gif" align="center" />
+<img src="screenshot/project.gif" align="center" />
