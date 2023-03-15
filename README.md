@@ -5,8 +5,8 @@ Belajar Fundamental Aplikasi Android (BFAA) Dicoding Academy | Bangkit Academy 2
 
 <table>
     <tr>
-        <td></td>
         <td><img src="screenshot/project.gif" align="center" alt="4"</td>
-        <td></td>
+        <td><img src="screenshot/home.jpg" align="center" alt="4"</td>
+        <td><img src="screenshot/file.jpg" align="center" alt="4"</td>
     </tr>
 </table>  
